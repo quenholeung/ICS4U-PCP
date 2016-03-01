@@ -1,2 +1,1 @@
-# ICS4U-PCP
-ICS4U-PCP
+# ICS4U Personal Coding Project
